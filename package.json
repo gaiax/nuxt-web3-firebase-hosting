@@ -11,8 +11,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@truffle/hdwallet-provider": "1.0.34",
     "nuxt": "^2.0.0",
-    "truffle-hdwallet-provider": "1.0.17",
     "web3": "1.2.4"
   },
   "devDependencies": {
